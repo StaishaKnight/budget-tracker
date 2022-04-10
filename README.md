@@ -51,7 +51,7 @@ This project is under no license
 ## Submission  
 [budget-tracker] https://github.com/StaishaKnight/budget-tracker.git
 
-[Deployed App]  
+[DeployedApp] https://dry-dawn-99162.herokuapp.com/
 
 ## Questions:  
  Here is a link to my github:  
