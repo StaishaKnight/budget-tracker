@@ -27,7 +27,8 @@
 
 
 ## Screen Shots
-![capture.png] images/budget.png
+![capture.png] <img width="871" alt="budget" src="https://user-images.githubusercontent.com/92115730/162653718-8e7a005a-bad5-4c01-8c60-776ce8cc55ef.png">
+
 
 ## Installation
 1. download the repo from the link below  
